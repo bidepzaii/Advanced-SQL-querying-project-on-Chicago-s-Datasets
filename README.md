@@ -1,4 +1,4 @@
-# Advanced-SQL-querying-project-on-Chicago-s-Datasets
+# Advanced SQL Querying Project on Chicago's Datasets
 
 This project explores advanced SQL techniques using real-world datasets from the City of Chicago's Data Portal. The analysis focuses on socioeconomic indicators, public school performance, and crime data.
 
